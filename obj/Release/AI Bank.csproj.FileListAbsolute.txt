@@ -1,0 +1,13 @@
+D:\Programming\AI Bank\bin\Release\AI Bank.exe.config
+D:\Programming\AI Bank\bin\Release\AI Bank.exe
+D:\Programming\AI Bank\bin\Release\AI Bank.pdb
+D:\Programming\AI Bank\obj\Release\AI Bank.csproj.AssemblyReference.cache
+D:\Programming\AI Bank\obj\Release\AI Bank.csproj.SuggestedBindingRedirects.cache
+D:\Programming\AI Bank\obj\Release\AI_Bank.Form1.resources
+D:\Programming\AI Bank\obj\Release\AI_Bank.Form_CreateUser.resources
+D:\Programming\AI Bank\obj\Release\AI_Bank.Login.resources
+D:\Programming\AI Bank\obj\Release\AI_Bank.Properties.Resources.resources
+D:\Programming\AI Bank\obj\Release\AI Bank.csproj.GenerateResource.cache
+D:\Programming\AI Bank\obj\Release\AI Bank.csproj.CoreCompileInputs.cache
+D:\Programming\AI Bank\obj\Release\AI Bank.exe
+D:\Programming\AI Bank\obj\Release\AI Bank.pdb

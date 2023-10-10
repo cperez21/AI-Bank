@@ -1,0 +1,30 @@
+D:\Programming\AI Bank\bin\Debug\AI Bank.exe.config
+D:\Programming\AI Bank\bin\Debug\AI Bank.exe
+D:\Programming\AI Bank\bin\Debug\AI Bank.pdb
+D:\Programming\AI Bank\obj\Debug\AI Bank.csproj.AssemblyReference.cache
+D:\Programming\AI Bank\obj\Debug\AI Bank.csproj.SuggestedBindingRedirects.cache
+D:\Programming\AI Bank\obj\Debug\AI_Bank.Form1.resources
+D:\Programming\AI Bank\obj\Debug\AI_Bank.Login.resources
+D:\Programming\AI Bank\obj\Debug\AI_Bank.Properties.Resources.resources
+D:\Programming\AI Bank\obj\Debug\AI Bank.csproj.GenerateResource.cache
+D:\Programming\AI Bank\obj\Debug\AI Bank.csproj.CoreCompileInputs.cache
+D:\Programming\AI Bank\obj\Debug\AI Bank.exe
+D:\Programming\AI Bank\obj\Debug\AI Bank.pdb
+D:\Programming\AI Bank\obj\Debug\AI_Bank.Form_CreateUser.resources
+D:\Programming\AI Bank\bin\Debug\System.Text.Json.dll
+D:\Programming\AI Bank\bin\Debug\System.Memory.dll
+D:\Programming\AI Bank\bin\Debug\System.Text.Encodings.Web.dll
+D:\Programming\AI Bank\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Programming\AI Bank\bin\Debug\System.Buffers.dll
+D:\Programming\AI Bank\obj\Debug\AI Bank.exe.config
+D:\Programming\AI Bank\obj\Debug\AI Bank.csproj.CopyComplete
+D:\Programming\AI Bank\bin\Debug\Microsoft.Threading.Tasks.dll
+D:\Programming\AI Bank\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+D:\Programming\AI Bank\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+D:\Programming\AI Bank\bin\Debug\Microsoft.Threading.Tasks.xml
+D:\Programming\AI Bank\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+D:\Programming\AI Bank\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+D:\Programming\AI Bank\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Programming\AI Bank\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Programming\AI Bank\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Programming\AI Bank\bin\Debug\System.Threading.Tasks.Extensions.xml
